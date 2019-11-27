@@ -39,3 +39,15 @@
 .filmForm input {
   margin: 10px
 }
+
+body {
+  background-image: url('https://66.media.tumblr.com/958607af47be1db9418e71372460cf8a/tumblr_ot08lmrjhh1w5t8ryo1_1280.png');
+}
+
+.App-div {
+  background-color: white;
+  width: 80%;
+  margin: 25px auto;
+  padding: 10px;
+
+}

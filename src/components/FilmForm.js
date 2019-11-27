@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import TimeTable from './TimeTable';
-import '../App.css';
 
 class FilmForm extends Component {
   state = {
